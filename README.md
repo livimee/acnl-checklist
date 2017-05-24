@@ -24,4 +24,6 @@ What needs to be done:
 
 -Improve UI
 
+-Add comments to code
+
 -???
