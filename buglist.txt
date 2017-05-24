@@ -1,0 +1,72 @@
+Agrias Butterfly      x
+Ant                   o
+Bagworm               o
+Banded Dragonfly      o
+Bee                   x
+Bell Cricket          o
+Birdwing Butterfly    o
+Giant Cicada          o
+Brown Cicada          o
+Centipede             o
+Cicada Shell          o
+Common Butterfly      x
+Cricket               o
+Cyclommatus Stag      x
+Darner Dragonfly      o
+Diving Beetle         o
+Water Beetle          o
+Emperor Butterfly     x
+Evening Cicada        o
+Firefly               o
+Flea                  x
+Fly                   o
+Fruit Beetle          x
+Giant Stag Beetle     o
+Giant Petaltail       o
+Golden Stag           o
+Goliath Beetle        x
+Grasshopper           x
+Hermit Crab           x
+Honeybee              x
+Horned Atlas          o
+Horned Dynastid       x
+Horned Elephant       o
+Horned Hercules       o
+House Centipede       o
+Jewel Beetle          o
+Ladybug               x
+Lantern Fly           x
+Long Locust           x
+Longhorn Beetle       o
+Mantis                x
+Migratory Locust      x
+Miyama Stag           o
+Mole Cricket          o
+Monarch Butterfly     x
+Mosquito              o
+Moth                  x
+Oak Silk Moth         o
+Orchid Mantis         o
+Peacock Butterfly     x
+Pill Bug              x
+Pondskater            x
+Rainbow Stag          o
+Raja Brooke Butterfly o
+Red Dragonfly         o
+Rice Grasshopper      o
+Robust Cicada         o
+Saw Stag              o
+Scarab Beetle         o
+Scorpion              o
+Snail                 o
+Spider                o
+Stinkbug              o
+Tarantula             o
+Tiger Beetle          o
+Tiger Butterfly       x
+Violin Beetle         o
+Walker Cicada         o
+Walking Leaf          o
+Walking Stick         o
+Wharf Roach           x
+Yellow Butterfly     x

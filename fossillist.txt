@@ -1,0 +1,68 @@
+Amber                   x
+Ammonite                o
+Ankylo Skull            x
+Ankylo Torso            o
+Ankylo Tail             o
+Apato Skull             x
+Apato Torso             x
+Apato Tail              x
+Archaeopteryx           x
+Archelon Skull          o
+Archelon Torso          o
+Coprolite               x
+Dimetrodon Skull        o
+Dimetrodon Torso        x
+Dimetrodon Tail         x
+Dinosaur Egg            o
+Dinosaur Track          o
+Diplodocus Skull        o
+Diplodocus Neck         x
+Diplodocus Chest        o
+Diplodocus Hip          x
+Diplodocus Tail         x
+Fern Fossil             o
+Ichthyo Skull           x
+Ichthyo Torso           o
+Iguanodon Skull         x
+Iguanodon Chest         o
+Iguanodon Tail          x
+Iguanodon Torso         x
+Mammoth Skull           o
+Mammoth Torso           x
+Megacerops Skull        x
+Megacerops Torso        o
+Megacerops Tail         o
+Pachysaurus Skull       o
+Pachysaurus Torso       o
+Pachysaurus Tail        x
+Parasaur Skull          x
+Parasaur Torso          x
+Parasaur Tail           o
+Peking Man              o
+Pleiosaur Skull         o
+Pleiosaur Neck          o
+Pleiosaur Torso         o
+Pteranodon Right Wing   o
+Pteranodon Skull        o
+Pteranodon Left Wing    o
+Shark Tooth             o
+Sabretooth Tiger Skull  o
+Sabretooth Tiger Torso  o
+Spino Skull             o
+Spino Torso             x
+Spinos Tail             o
+Stego Skull             x
+Stego Torso             x
+Stego Tail              o
+Styraco Skull           o
+Styraco Torso           o
+Styraco Tail            x
+Triceratops Skull       o
+Triceratops Torso       o
+Triceratops Tail        o
+Trilobite               x
+T. Rex Skull            x
+T. Rex Torso            o
+T. Rex Tail             o
+Velociraptor Skull      o
+Velociraptor Torso      o

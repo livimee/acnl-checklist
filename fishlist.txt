@@ -1,0 +1,72 @@
+Angelfish           o
+Arapaima            o
+Arowana             o
+Barbel Steed        x
+Barred Knifejaw     x
+Bitterling          o
+Black Bass          x
+Blowfish  	    o
+Blue Marlin         x
+Bluegill            x
+Butterfly Fish      x
+Carp                x
+Catfish             o
+Char                o
+Cherry Salmon       o
+Clown Fish          x
+Coelacanth          o
+Crawfish            x
+Crucian Carp        x
+Dab                 o
+Dace                x
+Dorado              o
+Eel                 o
+Football Fish       o
+Freshwater Goby     x
+Frog                x
+Gar                 o
+Giant Snakehead     o
+Giant Trevally      o
+Goldfish            x
+Guppy               x
+Hammerhead Shark    o
+Horse Mackerel      x
+Killifish           x
+King Salmon         o
+Koi                 o
+Loach               x
+Moray Eel           x
+Napoleonfish        o
+Neon Tetra          x
+Nibble Fish         o
+Oarfish             o
+Ocean Sunfish       o
+Olive Flounder      x
+Pale Chub           x
+Pike                o
+Piranha             o
+Pond Smelt          o
+Pop-eyed Goldfish   x
+Puffer Fish         x
+Rainbow Trout       o
+Ray                 x
+Red Snapper         x
+Ribbon Eel          x
+Saddled Bichir      o
+Salmon              o
+Saw Shark           o
+Sea Bass            x
+Sea Butterfly       o
+Sea Horse           x
+Mitten Crab         o
+Shark               x
+Softshell Turtle    o
+Squid               x
+Stringfish          o
+Surgeonfish         x
+Sweetfish           o
+Tadpole             x
+Tuna                o
+Whale Shark         x
+Yellow Perch        o
+Zebra Turkeyfish    x
